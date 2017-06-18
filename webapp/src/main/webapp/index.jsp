@@ -1,1 +1,1 @@
-Hello, World! Daniel was here.
+Hello, World! <strong>Daniel was here.</strong> 
